@@ -587,3 +587,12 @@ h2 {
   background-color: rgb(187 247 208 / var(--tw-bg-opacity, 1));
   height: 32rem;
 }
+
+@media (min-width: 1280px) {
+  body {
+    --tw-bg-opacity: 1;
+    background-color: rgb(0 0 0 / var(--tw-bg-opacity, 1));
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+  }
+}
