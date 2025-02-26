@@ -700,6 +700,10 @@ video {
   font-weight: 700;
 }
 
+.leading-9 {
+  line-height: 2.25rem;
+}
+
 .text-darkGrayishBlue {
   --tw-text-opacity: 1;
   color: hsl(210 10% 33% / var(--tw-text-opacity, 1));
